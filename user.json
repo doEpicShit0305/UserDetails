@@ -1,0 +1,26 @@
+
+[
+    {
+        "name":"ABCD",
+        "age":"24",
+        "place":"Bangalore"
+    },
+ 
+    {
+        "name":"XYZ",
+        "age":"40",
+        "place":"Mysore"
+    },
+    {
+        "name":"MNOP",
+        "age":"14",
+        "place":"Bihar"
+    },
+    {
+        "name":"LMNO",
+        "age":"32",
+        "place":"Mumbai"
+    }
+]
+
+   
